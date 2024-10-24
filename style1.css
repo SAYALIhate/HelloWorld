@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    margin-left: 30px;
+    color: navy;
+}
+
+p {
+    text-decoration: underline;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: cursive;
+}
